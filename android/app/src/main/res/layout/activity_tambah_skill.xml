@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/btnBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="6dp"
+                android:text="←"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Tambah Skill"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Nama Skill"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/etNamaSkill"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/bg_input"
+            android:hint="Contoh: Belajar Android Java"
+            android:paddingHorizontal="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Materi Hari Ini"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/etMateriHariIni"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/bg_input"
+            android:hint="Contoh: Belajar Intent &amp; RecyclerView"
+            android:paddingHorizontal="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Status Paham (%)"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/etStatusPaham"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/bg_input"
+            android:hint="0 - 100"
+            android:inputType="number"
+            android:maxLength="3"
+            android:paddingHorizontal="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Catatan (Opsional)"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/etCatatan"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/bg_input"
+            android:gravity="top"
+            android:hint="Tulis catatan tambahan..."
+            android:inputType="textMultiLine"
+            android:padding="14dp" />
+
+        <Button
+            android:id="@+id/btnSimpan"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_button_primary"
+            android:text="Simpan"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/bg_tips"
+            android:orientation="vertical"
+            android:padding="14dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tips"
+                android:textColor="@color/green_primary"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="Isi jurnal belajar setiap hari agar kamu bisa melihat perkembangan skillmu dengan lebih terstruktur."
+                android:textColor="@color/grey_text"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.skillprogress.app-mergeDebugResources-31:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fathmuiz\\.gradle\\caches\\transforms-3\\c0ee2274bd85af28f81cb8354ae3f49a\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

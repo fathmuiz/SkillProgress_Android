@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_item_riwayat.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\item_riwayat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_button_primary.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_progress_track.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_progress_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_item_skill.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\item_skill.xml"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_rounded_card.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_rounded_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_progress_fill.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_progress_fill.xml"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\drawable_bg_tips.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\drawable\\bg_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_activity_tambah_skill.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\activity_tambah_skill.xml"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_activity_detail_skill.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\activity_detail_skill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.skillprogress.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.skillprogress.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fathmuiz\\.gradle\\daemon\\8.5\\com.skillprogress.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

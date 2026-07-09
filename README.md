@@ -25,11 +25,12 @@ SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengg
 - 🕒 **Riwayat Materi Otomatis** — tercatat setiap kali skill diperbarui
 - ✅ **Validasi Input** — di setiap form (email, panjang password, rentang 0–100, dll)
 - 🔄 **Pull to Refresh** — muat ulang daftar skill dengan menarik ke bawah
-  
+
+<br>
+
 <br>
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Layer | Teknologi |

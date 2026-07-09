@@ -25,6 +25,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="SkillProgress"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:testOnly="true"
         android:theme="@style/Theme.SkillProgress"
         android:usesCleartextTraffic="true" >
         <activity

@@ -30,6 +30,8 @@ SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengg
 
 <br>
 
+<br>
+
 ---
 ## 🛠️ Tech Stack
 

@@ -107,7 +107,7 @@ Skema lengkap ada di [`backend/database.sql`](backend/database.sql).
 | POST | `/skills/delete.php` | Hapus skill |
 | GET | `/riwayat/read.php?skill_id=` | Riwayat materi per skill |
 
-Contoh request/response lengkap untuk setiap endpoint ada di dokumentasi teknis (`Dokumentasi_Teknis_SkillProgress.docx`).
+Contoh request/response lengkap untuk setiap endpoint ada di dokumentasi teknis [`docs/Dokumentasi_Teknis_SkillProgress.docx`](docs/Dokumentasi_Teknis_SkillProgress.docx).
 
 **Contoh singkat — Login:**
 ```json
@@ -183,12 +183,6 @@ Sebagai langkah antisipasi terhadap proteksi anti-bot serupa, seluruh request Vo
 Build → Generate Signed Bundle / APK → APK → release
 
 ```
-## ⚠️ Catatan Penting — Gunakan Data Seluler, Bukan WiFi
-
-Saat menguji coba aplikasi ini, **gunakan jaringan data seluler (mobile data)**, bukan WiFi. Beberapa jaringan WiFi (terutama WiFi kampus/kantor/publik) memiliki firewall atau pembatasan yang bisa memblokir koneksi ke domain hosting gratis seperti GoogieHost, sehingga aplikasi akan menampilkan pesan **"Gagal terhubung ke server"** meskipun backend sebenarnya online dan berfungsi normal.
-
-Jika ingin tetap menggunakan WiFi, pastikan jaringan tersebut tidak memiliki pembatasan akses ke domain eksternal, atau coba akses URL backend langsung lewat browser HP terlebih dahulu untuk memastikan koneksi tidak diblokir.
----
 
 ## 🧪 Validasi Input
 
@@ -201,14 +195,15 @@ Setiap form pada aplikasi ini menerapkan validasi sebelum data dikirim ke server
 
 ---
 
+## ⚠️ Catatan Penting — Gunakan Data Seluler, Bukan WiFi
+
+Saat menguji coba aplikasi ini, **gunakan jaringan data seluler (mobile data)**, bukan WiFi. Beberapa jaringan WiFi (terutama WiFi kampus/kantor/publik) memiliki firewall atau pembatasan yang bisa memblokir koneksi ke domain hosting gratis seperti GoogieHost, sehingga aplikasi akan menampilkan pesan **"Gagal terhubung ke server"** meskipun backend sebenarnya online dan berfungsi normal.
+
+Jika ingin tetap menggunakan WiFi, pastikan jaringan tersebut tidak memiliki pembatasan akses ke domain eksternal, atau coba akses URL backend langsung lewat browser HP terlebih dahulu untuk memastikan koneksi tidak diblokir.
+---
+
+
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan tugas akademik dan bebas digunakan untuk pembelajaran.
 
----
-
-## 👤 Author
-
-**[Muiz Fathussurur]**
-NIM: [2411501782]
-[Mobile Programming / Tehnik Informatika]

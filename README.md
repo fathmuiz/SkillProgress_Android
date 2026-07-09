@@ -43,7 +43,7 @@ SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengg
 | Database | MySQL / MariaDB |
 | Arsitektur | REST API (Create, Read, Update, Delete penuh via HTTP) |
 
-> ⚠️ Aplikasi ini **tidak** menggunakan database lokal (SQLite/Room). Seluruh data disimpan di MySQL dan diakses murni melalui REST API PHP.
+> Aplikasi ini **tidak** menggunakan database lokal (SQLite/Room). Seluruh data disimpan di MySQL dan diakses murni melalui REST API PHP.
 
 ---
 

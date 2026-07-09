@@ -173,7 +173,7 @@ Sebagai langkah antisipasi terhadap proteksi anti-bot serupa, seluruh request Vo
 2. Tunggu Gradle sync selesai.
 3. Edit `app/src/main/java/com/skillprogress/app/api/ApiConfig.java`:
    ```java
-   public static final String BASE_URL = "http://domain-backend-kamu.com/backend/";
+   public static final String BASE_URL = "http://domain-backend-kamu.whf.bz/backend/";
    ```
 4. Jalankan aplikasi (**Run 'app'**).
 

@@ -2,8 +2,8 @@
 // Konfigurasi koneksi database MySQL/MariaDB
 class Database {
     private $host = "localhost";
-    private $db_name = "db_skillprogress";
-    private $username = "root";
+    private $db_name = "vboxrmos_skill_progress";
+    private $username = "vboxrmos_skill_progress";
     private $password = "";
     public $conn;
 

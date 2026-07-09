@@ -13,10 +13,9 @@ SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengg
 ---
 
 <p> 
-    <img src="assets/Screenshot 2026-07-08 232140.png" width="150" align="left" alt="Tampilan utama aplikasi" style="margin-bottom: 10px;" style="margin-right: 25px;">
-    <br clear="left"/>
-    </p>
-    
+    <img src="assets/Screenshot 2026-07-08 232140.png" width="150" align="left" alt="Tampilan utama aplikasi" >
+    <br>
+    </p>    
 ### ✨ Fitur Utama
 
 - 🔐 **Registrasi & Login** — dengan validasi input dan password ter-hash
@@ -28,6 +27,7 @@ SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengg
 - 🔄 **Pull to Refresh** — muat ulang daftar skill dengan menarik ke bawah
 
 ---
+<br>
 
 ## 🛠️ Tech Stack
 

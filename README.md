@@ -8,7 +8,7 @@
 
 > Catat, pantau, dan tingkatkan skill kamu setiap hari.
 
-SkillProgress adalah aplikasi Android jurnal belajar mandiri yang membantu pengguna mencatat, memantau, dan meningkatkan skill yang sedang mereka pelajari. Dibangun dengan **Java (Android Studio)**, terhubung ke **REST API berbasis PHP**, dengan data tersimpan di **MySQL/MariaDB**.
+SkillProgress aplikasi Android jurnal yang membantu pengguna mencatat, memantau, dan meningkatkan skill yang sedang mereka pelajari. Dibangun dengan **Java (Android Studio)**, terhubung ke **REST API berbasis PHP**, dengan data tersimpan di **MySQL/MariaDB**.
 
 ---
 

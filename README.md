@@ -208,7 +208,6 @@ Setiap form pada aplikasi ini menerapkan validasi sebelum data dikirim ke server
 
 Saat menguji coba aplikasi ini, **gunakan jaringan data seluler (mobile data)**, bukan WiFi. Beberapa jaringan WiFi (terutama WiFi kampus/kantor/publik) memiliki firewall atau pembatasan yang bisa memblokir koneksi ke domain hosting gratis seperti GoogieHost, sehingga aplikasi akan menampilkan pesan **"Gagal terhubung ke server"** meskipun backend sebenarnya online dan berfungsi normal.
 
-Jika ingin tetap menggunakan WiFi, pastikan jaringan tersebut tidak memiliki pembatasan akses ke domain eksternal, atau coba akses URL backend langsung lewat browser HP terlebih dahulu untuk memastikan koneksi tidak diblokir.
 ---
 
 

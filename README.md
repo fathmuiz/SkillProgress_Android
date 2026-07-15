@@ -136,33 +136,18 @@ POST /auth/login.php
 
 ## 🌐 Hosting & Deployment
 
-Backend aplikasi ini di-deploy menggunakan **[GoogieHost](https://googiehost.com)** (free hosting, panel DirectAdmin, PHP 8 + MySQL).
+Backend aplikasi ini di-deploy menggunakan **[PHP.ID](https://www.php.id/)** (free hosting, panel DirectAdmin, PHP 8 + MySQL).
 
 | Item | Keterangan |
 |---|---|
-| Hosting Provider | GoogieHost (free plan) |
+| Hosting Provider | PHP.ID (free plan) |
 | Control Panel | DirectAdmin |
 | Domain Backend | `http://aeby.whf.bz/backend/` |
 | Database Host | `localhost` (PHP & MySQL satu server) |
 | PHP Version | 8.0 / 8.1 |
 
-### Kenapa tidak pakai InfinityFree?
-Sempat dicoba menggunakan **InfinityFree**, namun request dari aplikasi Android (via Volley) diblokir oleh sistem proteksi anti-bot mereka (halaman "Suspected D)DoS attack"), sehingga tidak bisa dipakai untuk komunikasi REST API dari aplikasi mobile. Karena itu, backend dipindah ke **GoogieHost** yang tidak memiliki kendala serupa.
-
 ### Catatan Teknis Tambahan
-Sebagai langkah antisipasi terhadap proteksi anti-bot serupa, seluruh request Volley pada aplikasi ini menggunakan class kustom [`AppJsonObjectRequest`](android/app/src/main/java/com/skillprogress/app/api/AppJsonObjectRequest.java) yang menambahkan header `User-Agent` menyerupai browser normal, serta [`VolleyErrorHelper`](android/app/src/main/java/com/skillprogress/app/api/VolleyErrorHelper.java) untuk menampilkan pesan error asli dari server (bukan sekadar pesan generik) saat REST API mengembalikan kode selain 2xx (contoh: 409 saat email sudah terdaftar).
-
-### Langkah Deploy Singkat
-1. Daftar akun gratis di GoogieHost → dapat subdomain otomatis.
-2. Buat database MySQL lewat menu **MySQL Management** di DirectAdmin.
-3. Import `backend/database.sql` di dasboard account manager pilih database scroll ke bawah import (hapus baris `CREATE DATABASE`/`USE` di file sebelum import, karena database sudah dibuat lewat panel).
-4. Sesuaikan `backend/config/database.php` dengan kredensial database dari DirectAdmin.
-5. Upload folder `backend/` ke `public_html/` lewat File Manager.
-6. Update `BASE_URL` di `ApiConfig.java`, lalu build APK release.
-
----
-
-
+Sebagai langkah antisipasi terhadap proteksi anti-bot, seluruh request Volley pada aplikasi ini menggunakan class kustom [`AppJsonObjectRequest`](android/app/src/main/java/com/skillprogress/app/api/AppJsonObjectRequest.java) yang menambahkan header `User-Agent` menyerupai browser normal, serta [`VolleyErrorHelper`](android/app/src/main/java/com/skillprogress/app/api/VolleyErrorHelper.java) untuk menampilkan pesan error asli dari server (bukan sekadar pesan generik) saat REST API mengembalikan kode selain 2xx (contoh: 409 saat email sudah terdaftar).
 
 ### 1. Setup Backend (PHP + MySQL)
 

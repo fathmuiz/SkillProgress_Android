@@ -189,13 +189,6 @@ Setiap form pada aplikasi ini menerapkan validasi sebelum data dikirim ke server
 
 ---
 
-## ⚠️ Catatan Penting — Gunakan Data Seluler, Bukan WiFi
-
-Saat menguji coba aplikasi ini, **gunakan jaringan data seluler (mobile data)**, bukan WiFi. Beberapa jaringan WiFi (terutama WiFi kampus/kantor/publik) memiliki firewall atau pembatasan yang bisa memblokir koneksi ke domain hosting gratis seperti GoogieHost, sehingga aplikasi akan menampilkan pesan **"Gagal terhubung ke server"** meskipun backend sebenarnya online dan berfungsi normal.
-
----
-
-
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan tugas akademik dan bebas digunakan untuk pembelajaran.
